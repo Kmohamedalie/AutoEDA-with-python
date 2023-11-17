@@ -10,7 +10,7 @@ In this repository you'll learn how to create quick visualizations and summary s
 • [pandas profiling](https://pypi.org/project/pandas-profiling/)
 
 **Final Reports:**
-• [Sweetviz - Housing data](https://kmohamedalie.github.io/AutoEDA-with-python/SWEETVIZ_REPORT.html)
+• [Sweetviz - Housing data](https://kmohamedalie.github.io/AutoEDA-with-python/Housing.html)
 • [Titanic - ydata_profiling](https://kmohamedalie.github.io/AutoEDA-with-python/Titanic.html)
 • [Penguins](https://kmohamedalie.github.io/AutoEDA-with-python/Penguins.html)
 
