@@ -9,7 +9,7 @@ Libraries:
 • [pandas profiling](https://pypi.org/project/pandas-profiling/)
 
 Reports:
-• [Sweetviz - Housing data]()
-• [Titanic]()
+• [Sweetviz - Housing data](https://kmohamedalie.github.io/AutoEDA-with-python/SWEETVIZ_REPORT.html)
+• [Titanic](https://kmohamedalie.github.io/AutoEDA-with-python/Pandas_profiling.html)
 
 
