@@ -12,6 +12,7 @@ In this repository you'll learn how to create quick visualizations and summary s
 **Final Reports:**
 • [Sweetviz - Housing data](https://kmohamedalie.github.io/AutoEDA-with-python/SWEETVIZ_REPORT.html)
 • [Titanic - ydata_profiling](https://kmohamedalie.github.io/AutoEDA-with-python/Pandas_profiling.html)
+• [Penguins](https://kmohamedalie.github.io/AutoEDA-with-python/Penguins.html)
 
 
 
