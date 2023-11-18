@@ -8,11 +8,13 @@ In this repository you'll learn how to create quick visualizations and summary s
 • [AutoViz](https://pypi.org/project/autoviz/)
 • [Sweetviz](https://pypi.org/project/sweetviz/)
 • [pandas profiling](https://pypi.org/project/pandas-profiling/)
+• [Dataprep](https://dataprep.ai/learning)
 
 **Final Reports:**
 • [Sweetviz - Housing data](https://kmohamedalie.github.io/AutoEDA-with-python/Housing.html)
 • [Titanic - ydata_profiling](https://kmohamedalie.github.io/AutoEDA-with-python/Titanic.html)
 • [Penguins](https://kmohamedalie.github.io/AutoEDA-with-python/Penguins.html)
+• [Dataprep - Titanic EDA](https://kmohamedalie.github.io/AutoEDA-with-python/DataPrep_report.html)
 
 
 
