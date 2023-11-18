@@ -17,7 +17,9 @@ In this repository you'll learn how to create quick visualizations and summary s
 • [Dataprep - Titanic EDA](https://kmohamedalie.github.io/AutoEDA-with-python/DataPrep_report.html)
 
 
-
+<!--
 ![image](https://github.com/Kmohamedalie/AutoEDA-with-python/assets/63104472/5b7032b8-5288-4620-9bbe-a5491f14d758)
 
+-->
 
+![image](https://github.com/Kmohamedalie/AutoEDA-with-python/assets/63104472/57d7f3b5-10df-4382-be96-ce70b2ca0c13)
